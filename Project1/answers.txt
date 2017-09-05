@@ -1,4 +1,4 @@
-Treasure Hunt (with cos356be):
+Treasure Hunt (with cos356be, cos356bm):
 /usr/share/pixmaps/xbzf136INTRO-1.jpg  = Forbidden Planet
 /dev/136intro-2jjaj.JPEG = Godzilla
 /var/log/136intro-3.jpg = It came from outer space
@@ -15,7 +15,7 @@ Information Hunt (with cos356cy):
 
 
 G8
-George Hatch 
+George Hatch, powhound@rams.colostate.edu, cos356bm 
 Alison Finnman, afinnman@rams.colostate.edu, cos356be
 Amy Kalinski
 Evan Salzman, evansalz@rams.colostate.edu, cos356cy
