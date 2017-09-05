@@ -1,22 +1,23 @@
-Treasure Hunt:
+Treasure Hunt (with cos356be):
 /usr/share/pixmaps/xbzf136INTRO-1.jpg  = Forbidden Planet
 /dev/136intro-2jjaj.JPEG = Godzilla
 /var/log/136intro-3.jpg = It came from outer space
 /etc/wuer136intro-4.JPG = The Fly
 /.hidden/asdf136Intro-5kqlw.jpeg = 2001 a Space Odyssey
 
-Information Hunt:
+Information Hunt (with cos356cy):
 1.  What goes in the /var directory on a UNIX computer?
   The /var directory, the standard subdirectory of the root directory, contains the files, which the system will write data to during the   course of operation.
 2.  What is the /dev directory for on a UNIX computer?
   The /dev directory is for storing all of the special device files related to the devices on a UNIX computer.
-3. In the top_secret directory.
+3. Available disk space is shown in the top_secret directory.
 4. Vendor ID: GenuineIntel
+
 
 G8
 George Hatch 
-Alison Finnman, cos356be
+Alison Finnman, afinnman@rams.colostate.edu, cos356be
 Amy Kalinski
 Evan Salzman, evansalz@rams.colostate.edu, cos356cy
 
-
+*The email addresses and DETER usernames are provided for the group members who used their DETER accounts to start an experimental node.
