@@ -1,0 +1,17 @@
+name: NPM - Release
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+env:
+  Branches: master
+  MainBranch: master
+  NPMRegistry: https://registry.npmjs.org/
+  InstallCommand: npm ci
+  DeployCommand: npm publish --access public
+  Organization: powhound4
+  Repository: CS356
+  Output: _site
